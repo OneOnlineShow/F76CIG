@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\F76CIG\bin\Release\net6.0\publish\win-x86\!readme.txt
+C:\Users\Admin\source\repos\F76CIG\bin\Release\net6.0\publish\win-x86\add.txt
+C:\Users\Admin\source\repos\F76CIG\bin\Release\net6.0\publish\win-x86\bsarch.exe
+C:\Users\Admin\source\repos\F76CIG\bin\Release\net6.0\publish\win-x86\colors.txt
+C:\Users\Admin\source\repos\F76CIG\bin\Release\net6.0\publish\win-x86\game.txt
+C:\Users\Admin\source\repos\F76CIG\bin\Release\net6.0\publish\win-x86\ignore.txt
+C:\Users\Admin\source\repos\F76CIG\bin\Release\net6.0\publish\win-x86\textures\glow_plants.dds
+C:\Users\Admin\source\repos\F76CIG\bin\Release\net6.0\publish\win-x86\textures\glow_white.dds
+C:\Users\Admin\source\repos\F76CIG\bin\Release\net6.0\publish\win-x86\F76CIG.exe

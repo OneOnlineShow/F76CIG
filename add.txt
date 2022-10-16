@@ -1,0 +1,172 @@
+﻿// INSTRUCTION:
+// 1st line: "-- Name of Your Category", for example "-- weapons"
+// 2nd+ line: "10mmpistol", name or short path to the file
+//
+// Tips:
+// If there are 3 similarly named files in a folder, but you only need one, use the following tricks:
+// Files: fake10mmpistol.bgsm, 10mmpistol.bgsm (this is the real one), 10mmpistol_broken.bgsm.
+// If you write "10mmpistol" you will get all three files, and if you write "10mmpistol.bgsm" you will get 2 files, 10mmpistol.bgsm and its fake.
+// To specify that the file should start with "10mm", write "\10mmpistol".
+// To specify that the file must end with "pistol", type "10mmpistol." or "10mmpistol.bgsm" (you can ignore the extension, because the dot is the last character in the file name).
+// Write "\10mmpistol." to get just one file you need.
+// To add all files from a specific folder, write "\weapons\"
+// If a file with the same name occurs in different folders, you can specify the folder by writing "\weapons\10mmpistol."
+
+-- holotapes
+holotape
+
+-- keys_keycards
+keys
+keycard
+nuclearkey
+keychain
+gearkey
+
+-- gun_mods
+\modcrate
+
+-- notes_magazines
+\interface\note\
+notebook
+notelowpoly
+noterippedlowpoly
+ransomnote
+dn101note
+potionlabel_note
+playerhouse_notes
+playerhouse_ruin_notes
+stickynotes
+berrybogfamilypicture_note
+berrybogjournal0
+berrybogmap_note
+note_envelope
+prewenvelope
+newspaper
+\grognak\
+instr04
+recipe
+\comicsandmagazines\
+
+-- valuable_items
+\bottlecaptin
+\vaultboy.
+\bottlecap
+\lunchbox.
+
+-- quest_items
+\mainframecores
+
+-- rare_items
+\lunchboxkids\toymodel
+
+-- meds
+\bloodpack
+\buffout
+\bufftat
+\daddyo
+\daytripper
+\diseasetreatmentbottle
+\jet.
+\medx
+\mentats
+\psycho0
+\radaway
+\radshield
+\radx
+stimpack
+\xcell
+
+-- ammo
+\ammo\
+\paddleballammo
+\mininuke
+
+-- plants
+rhodo
+\plants\afterwindvine
+\plants\ashrose
+\plants\blackberrybush
+\plants\blastfern
+\plants\bleachdogwood
+\plants\bloodleaf
+\plants\bostonbean
+\plants\carrot
+\plants\corn
+\plants\cranberryshrub
+\plants\decayvine
+\plants\diseasedcranberry
+\plants\doomberry
+\plants\fern01
+\plants\firecap
+\plants\firecrackertrap
+\plants\fissionfruit
+\plants\floracranberry
+\plants\florasap
+\plants\florasnaptail
+\plants\fungusbrain
+\plants\arktosradfungus
+\plants\swampfungus
+\plants\geigerblossom
+\plants\ginsengplant
+\plants\glowpod
+gourd
+\plants\greensealeaf
+melon
+\plants\gutshroom
+\plants\hubflower
+\plants\irradiroot
+\plants\mutfruit
+\plants\pinkpod
+\plants\pitcherplant
+\plants\radaster
+\plants\razorgrain
+\plants\starlightcreeper
+\plants\tarberry
+\plants\thistle
+\plants\tomatovine
+\plants\toxicsootflower
+\plants\aster0
+\plants\wild
+\plants\florarad
+\plants\rad
+\swamp\wild
+\swamp\florarad
+\swamp\rad
+\swamp\swampplant
+\megaslothmushroom
+
+-- minerals_ore
+\ore\
+\minerals\
+\plants\mineral
+
+-- food_drinks
+\setdressing\beer
+\helvetiaassets\beer
+
+-- enemy_drop
+\bloatflygland
+\proboscis
+\hivepaper
+\honeybeastwing
+\mothman\eggs
+\floraradeggs
+\mothmanwingtorn
+\assaultronhead.
+\tickbloodsack
+\wendigoteeth
+
+-- containers
+\ammobox
+lootbag
+loot_bag
+\brownbag
+firstaidkit
+\safe\
+//footlocker
+footlocker_military
+\metallocker
+vault_locker
+boslocker
+\dlc04_locker
+militarysafe

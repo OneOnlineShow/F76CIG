@@ -1,0 +1,90 @@
+﻿// INSTRUCTION:
+// 1st line: "-- Name of Your Category", for example "-- weapons"
+// 2nd line: "Hex Color Code", for example "00FF00" for bright green or "FF0000" for bright red
+// 3rd line: "Emittance Multiplier", backlight transparency, by default "0.10000"
+// 4th line: "Adaptive Exposure Offset", brightness, increase the value to make the glow brighter, by default "0.20000"
+// 5th line: "Texture", texture name without ".dds", for example "glow_wave" (draw the waves in paint and save the texture)
+
+-- holotapes
+00FFFF
+0.10000
+0.20000
+glow_white
+
+-- keys_keycards
+00FFFF
+0.10000
+0.20000
+glow_white
+
+-- gun_mods
+FF0000
+0.10000
+0.20000
+glow_white
+
+-- notes_magazines
+FFFF00
+0.10000
+0.20000
+glow_white
+
+-- valuable_items
+FFFF00
+0.10000
+0.20000
+glow_white
+
+-- quest_items
+FFFF00
+0.10000
+0.20000
+glow_white
+
+-- rare_items
+FFFF00
+0.10000
+0.20000
+glow_white
+
+-- meds
+00FF00
+0.10000
+0.20000
+glow_white
+
+-- ammo
+FF0000
+0.10000
+0.30000
+glow_white
+
+-- plants
+00FF00
+0.10000
+0.20000
+glow_plants
+
+-- minerals_ore
+0000FF
+0.10000
+0.40000
+glow_white
+
+-- food_drinks
+00FF00
+0.10000
+0.20000
+glow_white
+
+-- enemy_drop
+FF0000
+0.10000
+0.20000
+glow_white
+
+-- containers
+FFFFFF
+0.10000
+0.30000
+glow_white
